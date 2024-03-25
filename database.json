@@ -1,0 +1,20 @@
+{
+    "login": [
+        {
+            "email": "quanghuong@gmail.com",
+            "password": 123
+        },
+
+        {
+            "email": "quanghuy@gmail.com",
+            "password": "qhuy12345678"
+        }
+    ],
+
+    "projects": [
+        {
+            "project_name": "project_A",
+            "project_date": "2030"
+        }
+    ]
+}
